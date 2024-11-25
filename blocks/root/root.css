@@ -1,0 +1,23 @@
+:root {
+    --white: #ffffff;
+    --black: #2a2c2f;
+    --black--rgb: 42, 44, 47;
+    --gray: #aaaaaa;
+  
+    font-family: "Inter", Arial, sans-serif;
+    background-color: var(--black);
+    color: var(--white);
+    max-width: 1280px;
+    min-width: 320px;
+    margin: 0 auto;
+}
+  
+img {
+    width: 100%;
+    height: auto;
+}
+  
+a:hover {
+    opacity: 0.7;
+}
+  

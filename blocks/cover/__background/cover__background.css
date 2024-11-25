@@ -1,0 +1,13 @@
+.cover__background {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgba(var(--black--rgb), .3);
+    flex: 1;
+}
+
+.cover__background:hover {
+    background: rgba(var(--black--rgb), .6);
+}
+
